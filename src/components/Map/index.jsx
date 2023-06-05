@@ -22,7 +22,7 @@ function Map({ children }) {
     const map = new maplibregl.Map({
       container: "map",
       style:
-        "https://api.maptiler.com/maps/basic-v2-dark/style.json?key=OZLtjwtB56gzrUBj7cYd", // stylesheet location
+        "https://api.maptiler.com/maps/streets-v2-dark/style.json?key=OZLtjwtB56gzrUBj7cYd", // stylesheet location
       center: [29.0206640479916, 40.9976649305711],
       zoom: 9,
       bearing: 10,
