@@ -19,12 +19,12 @@ function Sidebar() {
           : "fixed right-[-100%] bg-primaryBlack"
       }
     >
-      <div className="flex flex-col text-white   bg-primaryBlack h-full">
+      <div className="flex flex-col text-white  bg-primaryBlack h-full font-sans">
         <div className="flex justify-between h-[10%] text-lg">
           <div className="flex items-center mx-auto">
-            <span className="text-lg">
+            <div className="text-2xl">
               Quality of Life Istanbul
-            </span>
+            </div>
           </div>
           <span className="p-2">
             <div
@@ -36,22 +36,25 @@ function Sidebar() {
           </span>
         </div>
 
-        <div className="flex flex-col items-center pb-2  h-[10%]">
-          <h5 className="text-xl font- text-gray-900 dark:text-white">
-            <Icon name="index" size={85} />
+        <div className="flex-row flex h-[10%] items-center ml-14 w-full">
+          <Icon name="index" size={100} />
+          <div className="text-left w-1/2 p-2 text-xl ml-7">
             {activeDistrict.name}
-          </h5>
-          <span className="text-sm text-gray-500 dark:text-gray-400">
-            QoL Index : {activeDistrict.quality}
-          </span>
+            <div className="">
+              QoL Index :
+              <div className=" text-4xl text-green-700">
+                {Math.round(activeDistrict.quality)}
+              </div>
+            </div>
+          </div>
         </div>
 
         <div className="flex flex-col">
-          <div className="mt-3">
-            <div className="p-2 ">
+          <div className="">
+            <div className=" ">
               <PieChart />
             </div>
-            <div className="px-5 pb-5 ">
+            <div className="px-5 ">
               <div className="justify-center text-center">
                 {chart}
               </div>
