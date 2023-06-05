@@ -2,7 +2,6 @@ import {
   NavLink,
   useLocation,
   useNavigate,
-  useNavigation,
 } from "react-router-dom";
 function BottomNav() {
   const location = useLocation();

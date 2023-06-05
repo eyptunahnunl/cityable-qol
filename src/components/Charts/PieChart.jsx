@@ -1,7 +1,6 @@
-import React, { useContext, useState } from "react";
+import React, { useContext } from "react";
 import { Pie } from "@ant-design/plots";
 import MainContext from "context/mapContext";
-import thematicData from "services/thematicIndex.json";
 import ChartContext from "context/chartContext";
 import { PieChartData } from "utils/dataFilter";
 

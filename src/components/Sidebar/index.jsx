@@ -3,7 +3,6 @@ import PieChart from "components/Charts/PieChart";
 import MainContext from "context/mapContext";
 import { useContext } from "react";
 import { Icon } from "utils/Icons";
-import { useState } from "react";
 import ChartContext from "context/chartContext";
 
 function Sidebar() {

@@ -4,7 +4,6 @@ import Navbar from "components/Navbar";
 import BottomNav from "components/Navbar/bottom-nav";
 import Sidebar from "components/Sidebar";
 import React from "react";
-import { NavLink } from "react-router-dom";
 import MapOperations from "utils/mapOperations";
 
 function IstanbulQoL() {

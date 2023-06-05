@@ -1,4 +1,3 @@
-import Home from "pages/Home";
 import IstanbulQoL from "pages/IstanbulQoL";
 import MyLifeQoL from "pages/MyLifeQoL";
 import { createBrowserRouter } from "react-router-dom";
