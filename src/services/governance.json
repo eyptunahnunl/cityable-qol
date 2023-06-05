@@ -1,0 +1,392 @@
+[
+  {
+    "id": 3,
+    "district": "Ataşehir",
+    "districtID": 2049,
+    "complaintApplications": 0.603773584906,
+    "socialAid": 0.266197183099,
+    "sesScore": 0.4,
+    "segeScore": 0.45593625498,
+    "governanceScore": 2.06175083911
+  },
+  {
+    "id": 4,
+    "district": "Avcılar",
+    "districtID": 2003,
+    "complaintApplications": 0.471698113208,
+    "socialAid": 0.184976525822,
+    "sesScore": 0.2,
+    "segeScore": 0.15235059761,
+    "governanceScore": 1.20537120518
+  },
+  {
+    "id": 5,
+    "district": "Bağcılar",
+    "districtID": 2004,
+    "complaintApplications": 0.22641509434,
+    "socialAid": 0.553755868545,
+    "sesScore": 0.2,
+    "segeScore": 0.264860557769,
+    "governanceScore": 1.487301893
+  },
+  {
+    "id": 6,
+    "district": "Bahçelievler",
+    "districtID": 2005,
+    "complaintApplications": 0.0754716981132,
+    "socialAid": 0.223474178404,
+    "sesScore": 0.4,
+    "segeScore": 0.277131474104,
+    "governanceScore": 1.16601199826
+  },
+  {
+    "id": 7,
+    "district": "Bakırköy",
+    "districtID": 1166,
+    "complaintApplications": 0.698113207547,
+    "socialAid": 0.0833333333333,
+    "sesScore": 0.8,
+    "segeScore": 0.602549800797,
+    "governanceScore": 2.60897964381
+  },
+  {
+    "id": 8,
+    "district": "Başakşehir",
+    "districtID": 2050,
+    "complaintApplications": 0.471698113208,
+    "socialAid": 0.194600938967,
+    "sesScore": 0.2,
+    "segeScore": 0.443665338645,
+    "governanceScore": 1.56487003414
+  },
+  {
+    "id": 9,
+    "district": "Bayrampaşa",
+    "districtID": 1886,
+    "complaintApplications": 0.754716981132,
+    "socialAid": 0.212676056338,
+    "sesScore": 0.2,
+    "segeScore": 0.252111553785,
+    "governanceScore": 1.69572563479
+  },
+  {
+    "id": 10,
+    "district": "Beşiktaş",
+    "districtID": 1183,
+    "complaintApplications": 0.792452830189,
+    "socialAid": 0.0833333333333,
+    "sesScore": 1,
+    "segeScore": 0.837609561753,
+    "governanceScore": 3.24139472111
+  },
+  {
+    "id": 12,
+    "district": "Beylikdüzü",
+    "districtID": 2051,
+    "complaintApplications": 0.603773584906,
+    "socialAid": 0.142723004695,
+    "sesScore": 0.4,
+    "segeScore": 0.289880478088,
+    "governanceScore": 1.7158813222
+  },
+  {
+    "id": 15,
+    "district": "Çatalca",
+    "districtID": 1237,
+    "complaintApplications": 0.924528301887,
+    "socialAid": 0.505633802817,
+    "sesScore": 0.4,
+    "segeScore": 0.0122709163347,
+    "governanceScore": 2.20095160199
+  },
+  {
+    "id": 16,
+    "district": "Çekmeköy",
+    "districtID": 2052,
+    "complaintApplications": 0.754716981132,
+    "socialAid": 0.320892018779,
+    "sesScore": 0.4,
+    "segeScore": 0.122071713147,
+    "governanceScore": 1.90857300359
+  },
+  {
+    "id": 19,
+    "district": "Eyüp",
+    "districtID": 1325,
+    "complaintApplications": 0.547169811321,
+    "socialAid": 0.433098591549,
+    "sesScore": 0.4,
+    "segeScore": 0.18406374502,
+    "governanceScore": 1.86873514946
+  },
+  {
+    "id": 20,
+    "district": "Fatih",
+    "districtID": 1327,
+    "complaintApplications": 0.0943396226415,
+    "socialAid": 0.69765258216,
+    "sesScore": 0.4,
+    "segeScore": 0.564462151394,
+    "governanceScore": 2.09824237025
+  },
+  {
+    "id": 21,
+    "district": "Gaziosmanpaşa",
+    "districtID": 1336,
+    "complaintApplications": 0.490566037736,
+    "socialAid": 0.342957746479,
+    "sesScore": 0.2,
+    "segeScore": 0.123665338645,
+    "governanceScore": 1.38236626498
+  },
+  {
+    "id": 22,
+    "district": "Güngören",
+    "districtID": 2010,
+    "complaintApplications": 0.77358490566,
+    "socialAid": 0.189906103286,
+    "sesScore": 0.2,
+    "segeScore": 0.196972111554,
+    "governanceScore": 1.625195299
+  },
+  {
+    "id": 23,
+    "district": "Kadıköy",
+    "districtID": 1421,
+    "complaintApplications": 0.490566037736,
+    "socialAid": 0.144600938967,
+    "sesScore": 0.4,
+    "segeScore": 0.673466135458,
+    "governanceScore": 2.0411156023
+  },
+  {
+    "id": 24,
+    "district": "Kağıthane",
+    "districtID": 1810,
+    "complaintApplications": 0.566037735849,
+    "socialAid": 0.361267605634,
+    "sesScore": 0.4,
+    "segeScore": 0.237450199203,
+    "governanceScore": 1.86924093016
+  },
+  {
+    "id": 25,
+    "district": "Kartal",
+    "districtID": 1449,
+    "complaintApplications": 0.584905660377,
+    "socialAid": 0.356338028169,
+    "sesScore": 0.4,
+    "segeScore": 0.260876494024,
+    "governanceScore": 1.91387634837
+  },
+  {
+    "id": 27,
+    "district": "Maltepe",
+    "districtID": 2012,
+    "complaintApplications": 0.584905660377,
+    "socialAid": 0.270422535211,
+    "sesScore": 0.4,
+    "segeScore": 0.318884462151,
+    "governanceScore": 1.88053830526
+  },
+  {
+    "id": 28,
+    "district": "Pendik",
+    "districtID": 1835,
+    "complaintApplications": 0.320754716981,
+    "socialAid": 0.714084507042,
+    "sesScore": 0.2,
+    "segeScore": 0.287011952191,
+    "governanceScore": 1.81798781613
+  },
+  {
+    "id": 29,
+    "district": "Sancaktepe",
+    "districtID": 2054,
+    "complaintApplications": 0.471698113208,
+    "socialAid": 0.416197183099,
+    "sesScore": 0.2,
+    "segeScore": 0.0941832669323,
+    "governanceScore": 1.41209893534
+  },
+  {
+    "id": 30,
+    "district": "Sarıyer",
+    "districtID": 1604,
+    "complaintApplications": 0.622641509434,
+    "socialAid": 0.408450704225,
+    "sesScore": 0.4,
+    "segeScore": 0.408764940239,
+    "governanceScore": 2.19787449751
+  },
+  {
+    "id": 32,
+    "district": "Silivri",
+    "districtID": 1622,
+    "complaintApplications": 0.849056603774,
+    "socialAid": 0.546009389671,
+    "sesScore": 0.4,
+    "segeScore": 0.100079681275,
+    "governanceScore": 2.26392159778
+  },
+  {
+    "id": 33,
+    "district": "Şişli",
+    "districtID": 1663,
+    "complaintApplications": 0.622641509434,
+    "socialAid": 0.208920187793,
+    "sesScore": 0.4,
+    "segeScore": 1,
+    "governanceScore": 2.66580073
+  },
+  {
+    "id": 36,
+    "district": "Tuzla",
+    "districtID": 2015,
+    "complaintApplications": 0.77358490566,
+    "socialAid": 0.271361502347,
+    "sesScore": 0.2,
+    "segeScore": 0.326055776892,
+    "governanceScore": 1.87670310731
+  },
+  {
+    "id": 38,
+    "district": "Üsküdar",
+    "districtID": 1708,
+    "complaintApplications": 0.490566037736,
+    "socialAid": 0.38896713615,
+    "sesScore": 0.4,
+    "segeScore": 0.37625498008,
+    "governanceScore": 1.9779875569
+  },
+  {
+    "id": 39,
+    "district": "Zeytinburnu",
+    "districtID": 1739,
+    "complaintApplications": 0.735849056604,
+    "socialAid": 0.217136150235,
+    "sesScore": 0.2,
+    "segeScore": 0.270597609562,
+    "governanceScore": 1.70059744075
+  },
+  {
+    "id": 1,
+    "district": "Adalar",
+    "districtID": 1103,
+    "complaintApplications": 0.962264150943,
+    "socialAid": 0.001,
+    "sesScore": 0.4,
+    "segeScore": 0.181354581673,
+    "governanceScore": 1.84399111589
+  },
+  {
+    "id": 2,
+    "district": "Arnavutköy",
+    "districtID": 2048,
+    "complaintApplications": 0.490566037736,
+    "socialAid": 0.678403755869,
+    "sesScore": 0.001,
+    "segeScore": 0.0138645418327,
+    "governanceScore": 1.41300177306
+  },
+  {
+    "id": 11,
+    "district": "Beykoz",
+    "districtID": 1185,
+    "complaintApplications": 0.735849056604,
+    "socialAid": 0.592723004695,
+    "sesScore": 0.001,
+    "segeScore": 0.167011952191,
+    "governanceScore": 1.78660933278
+  },
+  {
+    "id": 13,
+    "district": "Beyoğlu",
+    "districtID": 1186,
+    "complaintApplications": 0.566037735849,
+    "socialAid": 0.521126760563,
+    "sesScore": 0.001,
+    "segeScore": 0.43187250996,
+    "governanceScore": 1.81462603768
+  },
+  {
+    "id": 14,
+    "district": "Büyükçekmece",
+    "districtID": 1782,
+    "complaintApplications": 0.735849056604,
+    "socialAid": 0.355868544601,
+    "sesScore": 0.001,
+    "segeScore": 0.19235059761,
+    "governanceScore": 1.5339347086
+  },
+  {
+    "id": 17,
+    "district": "Esenler",
+    "districtID": 2016,
+    "complaintApplications": 0.433962264151,
+    "socialAid": 0.392488262911,
+    "sesScore": 0.001,
+    "segeScore": 0.106772908367,
+    "governanceScore": 1.11481915042
+  },
+  {
+    "id": 18,
+    "district": "Esenyurt",
+    "districtID": 2053,
+    "complaintApplications": 0.001,
+    "socialAid": 1,
+    "sesScore": 0.001,
+    "segeScore": 0.286055776892,
+    "governanceScore": 1.536309049
+  },
+  {
+    "id": 26,
+    "district": "Küçükçekmece",
+    "districtID": 1823,
+    "complaintApplications": 0.207547169811,
+    "socialAid": 0.477230046948,
+    "sesScore": 0.001,
+    "segeScore": 0.235378486056,
+    "governanceScore": 1.09920857099
+  },
+  {
+    "id": 31,
+    "district": "Şile",
+    "districtID": 1659,
+    "complaintApplications": 1,
+    "socialAid": 0.466431924883,
+    "sesScore": 0.001,
+    "segeScore": 0.00223107569721,
+    "governanceScore": 1.7544497667
+  },
+  {
+    "id": 34,
+    "district": "Sultanbeyli",
+    "districtID": 2014,
+    "complaintApplications": 0.584905660377,
+    "socialAid": 0.375352112676,
+    "sesScore": 0.001,
+    "segeScore": 0.001,
+    "governanceScore": 1.14711409305
+  },
+  {
+    "id": 35,
+    "district": "Sultangazi",
+    "districtID": 2055,
+    "complaintApplications": 0.358490566038,
+    "socialAid": 0.381924882629,
+    "sesScore": 0.001,
+    "segeScore": 0.0210358565737,
+    "governanceScore": 0.909621924364
+  },
+  {
+    "id": 37,
+    "district": "Ümraniye",
+    "districtID": 1852,
+    "complaintApplications": 0.320754716981,
+    "socialAid": 0.682159624413,
+    "sesScore": 0.001,
+    "segeScore": 0.427091633466,
+    "governanceScore": 1.70827048001
+  }
+]

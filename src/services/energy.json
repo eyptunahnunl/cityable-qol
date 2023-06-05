@@ -1,0 +1,392 @@
+[
+  {
+    "id": 1,
+    "district": "Adalar",
+    "districtID": 1103,
+    "energyConsumptionScore": 7.7061618,
+    "domesticWaste": 1,
+    "waterConsumption": 1,
+    "gasConsumption": 1,
+    "watercuts": 1
+  },
+  {
+    "id": 2,
+    "district": "Arnavutköy",
+    "districtID": 2048,
+    "energyConsumptionScore": 5.30164529089,
+    "domesticWaste": 0.752278615605,
+    "waterConsumption": 0.705083670861,
+    "gasConsumption": 0.886704102446,
+    "watercuts": 0.407832898172
+  },
+  {
+    "id": 3,
+    "district": "Ataşehir",
+    "districtID": 2049,
+    "energyConsumptionScore": 3.60617984047,
+    "domesticWaste": 0.571953141508,
+    "waterConsumption": 0.501072648064,
+    "gasConsumption": 0.166701593403,
+    "watercuts": 0.632114882507
+  },
+  {
+    "id": 5,
+    "district": "Bağcılar",
+    "districtID": 2004,
+    "energyConsumptionScore": 3.15594586554,
+    "domesticWaste": 0.550390294138,
+    "waterConsumption": 0.710098089094,
+    "gasConsumption": 0.105329358519,
+    "watercuts": 0.272323759791
+  },
+  {
+    "id": 6,
+    "district": "Bahçelievler",
+    "districtID": 2005,
+    "energyConsumptionScore": 3.10661644477,
+    "domesticWaste": 0.354574889412,
+    "waterConsumption": 0.264959117539,
+    "gasConsumption": 0.342349570079,
+    "watercuts": 0.650652741514
+  },
+  {
+    "id": 7,
+    "district": "Bakırköy",
+    "districtID": 1166,
+    "energyConsumptionScore": 4.54159002527,
+    "domesticWaste": 0.758617500723,
+    "waterConsumption": 0.372816272311,
+    "gasConsumption": 0.571900319224,
+    "watercuts": 0.654046997389
+  },
+  {
+    "id": 8,
+    "district": "Başakşehir",
+    "districtID": 2050,
+    "energyConsumptionScore": 5.28016995586,
+    "domesticWaste": 0.46522935115,
+    "waterConsumption": 0.658732602966,
+    "gasConsumption": 0.695902506591,
+    "watercuts": 0.92088772846
+  },
+  {
+    "id": 9,
+    "district": "Bayrampaşa",
+    "districtID": 1886,
+    "energyConsumptionScore": 4.97829030601,
+    "domesticWaste": 0.716946827683,
+    "waterConsumption": 0.437201645989,
+    "gasConsumption": 0.748446369972,
+    "watercuts": 0.681462140992
+  },
+  {
+    "id": 10,
+    "district": "Beşiktaş",
+    "districtID": 1183,
+    "energyConsumptionScore": 6.09864559803,
+    "domesticWaste": 0.721467771908,
+    "waterConsumption": 0.709524435269,
+    "gasConsumption": 0.858100855226,
+    "watercuts": 0.876501305483
+  },
+  {
+    "id": 11,
+    "district": "Beykoz",
+    "districtID": 1185,
+    "energyConsumptionScore": 6.05575346771,
+    "domesticWaste": 0.712511891973,
+    "waterConsumption": 0.679973313997,
+    "gasConsumption": 0.933351879449,
+    "watercuts": 0.817493472585
+  },
+  {
+    "id": 12,
+    "district": "Beylikdüzü",
+    "districtID": 2051,
+    "energyConsumptionScore": 5.44388449204,
+    "domesticWaste": 0.672211323332,
+    "waterConsumption": 0.732724942623,
+    "gasConsumption": 0.893901482449,
+    "watercuts": 0.526892950392
+  },
+  {
+    "id": 13,
+    "district": "Beyoğlu",
+    "districtID": 1186,
+    "energyConsumptionScore": 5.72419762287,
+    "domesticWaste": 0.672566105029,
+    "waterConsumption": 0.620507677593,
+    "gasConsumption": 0.946303906464,
+    "watercuts": 0.731853785901
+  },
+  {
+    "id": 14,
+    "district": "Büyükçekmece",
+    "districtID": 1782,
+    "energyConsumptionScore": 5.91467763894,
+    "domesticWaste": 0.739605725672,
+    "waterConsumption": 0.69563317962,
+    "gasConsumption": 0.93225314099,
+    "watercuts": 0.702610966057
+  },
+  {
+    "id": 15,
+    "district": "Çatalca",
+    "districtID": 1237,
+    "energyConsumptionScore": 7.01705729758,
+    "domesticWaste": 0.933696236076,
+    "waterConsumption": 0.935814816366,
+    "gasConsumption": 0.982198296192,
+    "watercuts": 0.790600522193
+  },
+  {
+    "id": 16,
+    "district": "Çekmeköy",
+    "districtID": 2052,
+    "energyConsumptionScore": 6.07391380207,
+    "domesticWaste": 0.755356196025,
+    "waterConsumption": 0.756263751959,
+    "gasConsumption": 0.939048233775,
+    "watercuts": 0.702088772846
+  },
+  {
+    "id": 17,
+    "district": "Esenler",
+    "districtID": 2016,
+    "energyConsumptionScore": 5.66249664355,
+    "domesticWaste": 0.697549042469,
+    "waterConsumption": 0.57815237834,
+    "gasConsumption": 0.933477116675,
+    "watercuts": 0.730026109661
+  },
+  {
+    "id": 19,
+    "district": "Eyüp",
+    "districtID": 1325,
+    "energyConsumptionScore": 4.09680859205,
+    "domesticWaste": 0.627609448851,
+    "waterConsumption": 0.529484873035,
+    "gasConsumption": 0.898659048024,
+    "watercuts": 0.0707571801567
+  },
+  {
+    "id": 20,
+    "district": "Fatih",
+    "districtID": 1327,
+    "energyConsumptionScore": 3.95957236172,
+    "domesticWaste": 0.436728673679,
+    "waterConsumption": 0.42108256824,
+    "gasConsumption": 0.912086174129,
+    "watercuts": 0.285378590078
+  },
+  {
+    "id": 21,
+    "district": "Gaziosmanpaşa",
+    "districtID": 1336,
+    "energyConsumptionScore": 5.45858949807,
+    "domesticWaste": 0.636541149344,
+    "waterConsumption": 0.550563493866,
+    "gasConsumption": 0.911533063125,
+    "watercuts": 0.734725848564
+  },
+  {
+    "id": 22,
+    "district": "Güngören",
+    "districtID": 2010,
+    "energyConsumptionScore": 6.31641636971,
+    "domesticWaste": 0.777296219658,
+    "waterConsumption": 0.702534701187,
+    "gasConsumption": 0.944753667054,
+    "watercuts": 0.854046997389
+  },
+  {
+    "id": 23,
+    "district": "Kadıköy",
+    "districtID": 1421,
+    "energyConsumptionScore": 4.25170666031,
+    "domesticWaste": 0.479990079273,
+    "waterConsumption": 0.185861896212,
+    "gasConsumption": 0.829050319134,
+    "watercuts": 0.712010443864
+  },
+  {
+    "id": 24,
+    "district": "Kağıthane",
+    "districtID": 1810,
+    "energyConsumptionScore": 4.46616260191,
+    "domesticWaste": 0.627141545532,
+    "waterConsumption": 0.341501611567,
+    "gasConsumption": 0.910160598559,
+    "watercuts": 0.439425587467
+  },
+  {
+    "id": 26,
+    "district": "Küçükçekmece",
+    "districtID": 1823,
+    "energyConsumptionScore": 4.56644967649,
+    "domesticWaste": 0.259997132684,
+    "waterConsumption": 0.508372464654,
+    "gasConsumption": 0.823325192469,
+    "watercuts": 0.778590078329
+  },
+  {
+    "id": 27,
+    "district": "Maltepe",
+    "districtID": 2012,
+    "energyConsumptionScore": 4.77327838487,
+    "domesticWaste": 0.565993516378,
+    "waterConsumption": 0.414728921498,
+    "gasConsumption": 0.885431753328,
+    "watercuts": 0.611488250653
+  },
+  {
+    "id": 28,
+    "district": "Pendik",
+    "districtID": 1835,
+    "energyConsumptionScore": 3.41009294466,
+    "domesticWaste": 0.409657459369,
+    "waterConsumption": 0.235630174281,
+    "gasConsumption": 0.803885030164,
+    "watercuts": 0.32088772846
+  },
+  {
+    "id": 29,
+    "district": "Sancaktepe",
+    "districtID": 2054,
+    "energyConsumptionScore": 4.69082511629,
+    "domesticWaste": 0.605625379098,
+    "waterConsumption": 0.522112008048,
+    "gasConsumption": 0.90240669791,
+    "watercuts": 0.404699738903
+  },
+  {
+    "id": 30,
+    "district": "Sarıyer",
+    "districtID": 1604,
+    "energyConsumptionScore": 4.77228505089,
+    "domesticWaste": 0.588731244996,
+    "waterConsumption": 0.604431864967,
+    "gasConsumption": 0.882136050606,
+    "watercuts": 0.40182767624
+  },
+  {
+    "id": 31,
+    "district": "Şile",
+    "districtID": 1659,
+    "energyConsumptionScore": 7.22738383809,
+    "domesticWaste": 0.935171376695,
+    "waterConsumption": 0.962215568544,
+    "gasConsumption": 0.988560854007,
+    "watercuts": 0.865535248042
+  },
+  {
+    "id": 32,
+    "district": "Silivri",
+    "districtID": 1622,
+    "energyConsumptionScore": 4.83477506494,
+    "domesticWaste": 0.769373006701,
+    "waterConsumption": 0.511483786147,
+    "gasConsumption": 0.922179017085,
+    "watercuts": 0.306527415144
+  },
+  {
+    "id": 33,
+    "district": "Şişli",
+    "districtID": 1663,
+    "energyConsumptionScore": 5.07710120335,
+    "domesticWaste": 0.641975368554,
+    "waterConsumption": 0.585256222406,
+    "gasConsumption": 0.905242623872,
+    "watercuts": 0.502872062663
+  },
+  {
+    "id": 34,
+    "district": "Sultanbeyli",
+    "districtID": 2014,
+    "energyConsumptionScore": 6.44384875219,
+    "domesticWaste": 0.706858086471,
+    "waterConsumption": 0.79422368438,
+    "gasConsumption": 0.945784295504,
+    "watercuts": 0.897911227154
+  },
+  {
+    "id": 35,
+    "district": "Sultangazi",
+    "districtID": 2055,
+    "energyConsumptionScore": 5.08627420378,
+    "domesticWaste": 0.57476781608,
+    "waterConsumption": 0.745297536096,
+    "gasConsumption": 0.906726383235,
+    "watercuts": 0.413315926893
+  },
+  {
+    "id": 36,
+    "district": "Tuzla",
+    "districtID": 2015,
+    "energyConsumptionScore": 5.56578963808,
+    "domesticWaste": 0.708209547011,
+    "waterConsumption": 0.631203948471,
+    "gasConsumption": 0.862126552819,
+    "watercuts": 0.687467362924
+  },
+  {
+    "id": 37,
+    "district": "Ümraniye",
+    "districtID": 1852,
+    "energyConsumptionScore": 3.3040075382,
+    "domesticWaste": 0.339920730144,
+    "waterConsumption": 0.228835583436,
+    "gasConsumption": 0.837622653708,
+    "watercuts": 0.30861618799
+  },
+  {
+    "id": 38,
+    "district": "Üsküdar",
+    "districtID": 1708,
+    "energyConsumptionScore": 4.14771827135,
+    "domesticWaste": 0.445550893585,
+    "waterConsumption": 0.361982837252,
+    "gasConsumption": 0.863417925145,
+    "watercuts": 0.481984334204
+  },
+  {
+    "id": 39,
+    "district": "Zeytinburnu",
+    "districtID": 1739,
+    "energyConsumptionScore": 6.10598511858,
+    "domesticWaste": 0.708844754302,
+    "waterConsumption": 0.681172369196,
+    "gasConsumption": 0.935000510718,
+    "watercuts": 0.844386422977
+  },
+  {
+    "id": 4,
+    "district": "Avcılar",
+    "districtID": 2003,
+    "energyConsumptionScore": 3.64204929924,
+    "domesticWaste": 0.651249290814,
+    "waterConsumption": 0.57080424982,
+    "gasConsumption": 0.001,
+    "watercuts": 0.668407310705
+  },
+  {
+    "id": 18,
+    "district": "Esenyurt",
+    "districtID": 2053,
+    "energyConsumptionScore": 1.51721224634,
+    "domesticWaste": 0.001,
+    "waterConsumption": 0.001,
+    "gasConsumption": 0.725652100637,
+    "watercuts": 0.0618798955614
+  },
+  {
+    "id": 25,
+    "district": "Kartal",
+    "districtID": 1449,
+    "energyConsumptionScore": 3.89743216758,
+    "domesticWaste": 0.595152409857,
+    "waterConsumption": 0.535436931298,
+    "gasConsumption": 0.89243185603,
+    "watercuts": 0.001
+  }
+]

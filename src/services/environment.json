@@ -1,0 +1,392 @@
+[
+  {
+    "id": 1,
+    "district": "Adalar",
+    "districtID": 1103,
+    "environmentScore": 8.38695559848,
+    "parkGreenAreaDistance": 0.836184443333,
+    "highBuildingDensity": 1,
+    "totalResidenceRatio": 0.267158671587,
+    "environmentCleaning": 0.096361179
+  },
+  {
+    "id": 2,
+    "district": "Arnavutköy",
+    "districtID": 2048,
+    "environmentScore": 8.81677407235,
+    "parkGreenAreaDistance": 0.631900867302,
+    "highBuildingDensity": 0.978836139132,
+    "totalResidenceRatio": 0.434686346863,
+    "environmentCleaning": 0.267012376
+  },
+  {
+    "id": 3,
+    "district": "Ataşehir",
+    "districtID": 2049,
+    "environmentScore": 8.48561118516,
+    "parkGreenAreaDistance": 0.971013498326,
+    "highBuildingDensity": 0.589478805663,
+    "totalResidenceRatio": 0.490036900369,
+    "environmentCleaning": 0.175050166
+  },
+  {
+    "id": 4,
+    "district": "Avcılar",
+    "districtID": 2003,
+    "environmentScore": 8.75437535243,
+    "parkGreenAreaDistance": 0.888779807684,
+    "highBuildingDensity": 0.848846104324,
+    "totalResidenceRatio": 0.373431734317,
+    "environmentCleaning": 0.185012344
+  },
+  {
+    "id": 5,
+    "district": "Bağcılar",
+    "districtID": 2004,
+    "environmentScore": 7.92642041788,
+    "parkGreenAreaDistance": 0.984247542978,
+    "highBuildingDensity": 0.567534103643,
+    "totalResidenceRatio": 0.433948339483,
+    "environmentCleaning": 0.093186592
+  },
+  {
+    "id": 6,
+    "district": "Bahçelievler",
+    "districtID": 2005,
+    "environmentScore": 8.34560405197,
+    "parkGreenAreaDistance": 0.989063739883,
+    "highBuildingDensity": 0.44581124707,
+    "totalResidenceRatio": 0.689667896679,
+    "environmentCleaning": 0.064315857
+  },
+  {
+    "id": 7,
+    "district": "Bakırköy",
+    "districtID": 1166,
+    "environmentScore": 9.3939508681,
+    "parkGreenAreaDistance": 0.932062141673,
+    "highBuildingDensity": 0.832634543619,
+    "totalResidenceRatio": 0.330627306273,
+    "environmentCleaning": 0.36849185
+  },
+  {
+    "id": 8,
+    "district": "Başakşehir",
+    "districtID": 2050,
+    "environmentScore": 7.05609591198,
+    "parkGreenAreaDistance": 0.863012036787,
+    "highBuildingDensity": 0.195579970216,
+    "totalResidenceRatio": 0.49520295203,
+    "environmentCleaning": 0.296855649
+  },
+  {
+    "id": 9,
+    "district": "Bayrampaşa",
+    "districtID": 1886,
+    "environmentScore": 6.35418783687,
+    "parkGreenAreaDistance": 0.993633226246,
+    "highBuildingDensity": 0.19862218505,
+    "totalResidenceRatio": 0.407380073801,
+    "environmentCleaning": 0.066920884
+  },
+  {
+    "id": 10,
+    "district": "Beşiktaş",
+    "districtID": 1183,
+    "environmentScore": 6.65594182613,
+    "parkGreenAreaDistance": 0.983341396501,
+    "highBuildingDensity": 0.206682341196,
+    "totalResidenceRatio": 0.212915129151,
+    "environmentCleaning": 0.342760588
+  },
+  {
+    "id": 11,
+    "district": "Beykoz",
+    "districtID": 1185,
+    "environmentScore": 6.75012407626,
+    "parkGreenAreaDistance": 0.701043810693,
+    "highBuildingDensity": 0.806876523587,
+    "totalResidenceRatio": 0.0774907749077,
+    "environmentCleaning": 0.18499017
+  },
+  {
+    "id": 12,
+    "district": "Beylikdüzü",
+    "districtID": 2051,
+    "environmentScore": 6.94641885165,
+    "parkGreenAreaDistance": 0.942999926666,
+    "highBuildingDensity": 0.142021841191,
+    "totalResidenceRatio": 0.50442804428,
+    "environmentCleaning": 0.232435042
+  },
+  {
+    "id": 13,
+    "district": "Beyoğlu",
+    "districtID": 1186,
+    "environmentScore": 8.88172663563,
+    "parkGreenAreaDistance": 0.995287368169,
+    "highBuildingDensity": 0.279481983127,
+    "totalResidenceRatio": 0.574538745387,
+    "environmentCleaning": 0.480163187
+  },
+  {
+    "id": 14,
+    "district": "Büyükçekmece",
+    "districtID": 1782,
+    "environmentScore": 7.54808379683,
+    "parkGreenAreaDistance": 0.719729763213,
+    "highBuildingDensity": 0.607366019019,
+    "totalResidenceRatio": 0.514022140221,
+    "environmentCleaning": 0.138569718
+  },
+  {
+    "id": 15,
+    "district": "Çatalca",
+    "districtID": 1237,
+    "environmentScore": 7.7489887068,
+    "parkGreenAreaDistance": 0.357200682392,
+    "highBuildingDensity": 0.820176791093,
+    "totalResidenceRatio": 0.820664206642,
+    "environmentCleaning": 0.034338667
+  },
+  {
+    "id": 16,
+    "district": "Çekmeköy",
+    "districtID": 2052,
+    "environmentScore": 7.02173999461,
+    "parkGreenAreaDistance": 0.713905711597,
+    "highBuildingDensity": 0.656895512634,
+    "totalResidenceRatio": 0.336900369004,
+    "environmentCleaning": 0.133938253
+  },
+  {
+    "id": 17,
+    "district": "Esenler",
+    "districtID": 2016,
+    "environmentScore": 5.07425850702,
+    "parkGreenAreaDistance": 0.935620026899,
+    "highBuildingDensity": 0.122167557331,
+    "totalResidenceRatio": 0.0645756457565,
+    "environmentCleaning": 0.208497307
+  },
+  {
+    "id": 18,
+    "district": "Esenyurt",
+    "districtID": 2053,
+    "environmentScore": 9.12678867563,
+    "parkGreenAreaDistance": 0.935327685851,
+    "highBuildingDensity": 0.833083572364,
+    "totalResidenceRatio": 0.366420664207,
+    "environmentCleaning": 0.258913461
+  },
+  {
+    "id": 19,
+    "district": "Eyüp",
+    "districtID": 1325,
+    "environmentScore": 11.8483898584,
+    "parkGreenAreaDistance": 0.662850564385,
+    "highBuildingDensity": 0.963933434103,
+    "totalResidenceRatio": 0.735793357934,
+    "environmentCleaning": 0.744981012
+  },
+  {
+    "id": 20,
+    "district": "Fatih",
+    "districtID": 1327,
+    "environmentScore": 8.3874460521,
+    "parkGreenAreaDistance": 1,
+    "highBuildingDensity": 0.0784307148646,
+    "totalResidenceRatio": 0.121402214022,
+    "environmentCleaning": 1
+  },
+  {
+    "id": 21,
+    "district": "Gaziosmanpaşa",
+    "districtID": 1336,
+    "environmentScore": 6.78360467514,
+    "parkGreenAreaDistance": 0.997008793629,
+    "highBuildingDensity": 0.00210736944534,
+    "totalResidenceRatio": 0.709225092251,
+    "environmentCleaning": 0.07084121
+  },
+  {
+    "id": 22,
+    "district": "Güngören",
+    "districtID": 2010,
+    "environmentScore": 7.18855645867,
+    "parkGreenAreaDistance": 0.997614543931,
+    "highBuildingDensity": 0.341818353626,
+    "totalResidenceRatio": 0.518450184502,
+    "environmentCleaning": 0.027508861
+  },
+  {
+    "id": 23,
+    "district": "Kadıköy",
+    "districtID": 1421,
+    "environmentScore": 9.42983977893,
+    "parkGreenAreaDistance": 0.973084032434,
+    "highBuildingDensity": 0.879375009693,
+    "totalResidenceRatio": 0.292250922509,
+    "environmentCleaning": 0.328518707
+  },
+  {
+    "id": 24,
+    "district": "Kağıthane",
+    "districtID": 1810,
+    "environmentScore": 8.43597764937,
+    "parkGreenAreaDistance": 0.99078451162,
+    "highBuildingDensity": 0.228678979071,
+    "totalResidenceRatio": 0.756088560886,
+    "environmentCleaning": 0.237009592
+  },
+  {
+    "id": 25,
+    "district": "Kartal",
+    "districtID": 1449,
+    "environmentScore": 8.74074610681,
+    "parkGreenAreaDistance": 0.95098878021,
+    "highBuildingDensity": 0.440021120581,
+    "totalResidenceRatio": 0.526568265683,
+    "environmentCleaning": 0.374917188
+  },
+  {
+    "id": 26,
+    "district": "Küçükçekmece",
+    "districtID": 1823,
+    "environmentScore": 6.28393754741,
+    "parkGreenAreaDistance": 0.951418551616,
+    "highBuildingDensity": 0.001,
+    "totalResidenceRatio": 0.39926199262,
+    "environmentCleaning": 0.2974508
+  },
+  {
+    "id": 27,
+    "district": "Maltepe",
+    "districtID": 2012,
+    "environmentScore": 8.44449378472,
+    "parkGreenAreaDistance": 0.916150022702,
+    "highBuildingDensity": 0.677581491504,
+    "totalResidenceRatio": 0.250553505535,
+    "environmentCleaning": 0.370510209
+  },
+  {
+    "id": 28,
+    "district": "Pendik",
+    "districtID": 1835,
+    "environmentScore": 9.96444461589,
+    "parkGreenAreaDistance": 0.544580308738,
+    "highBuildingDensity": 0.725617468625,
+    "totalResidenceRatio": 0.79520295203,
+    "environmentCleaning": 0.548042415
+  },
+  {
+    "id": 29,
+    "district": "Sancaktepe",
+    "districtID": 2054,
+    "environmentScore": 7.90135718428,
+    "parkGreenAreaDistance": 0.775773671046,
+    "highBuildingDensity": 0.562984667021,
+    "totalResidenceRatio": 0.636162361624,
+    "environmentCleaning": 0.097422372
+  },
+  {
+    "id": 30,
+    "district": "Sarıyer",
+    "districtID": 1604,
+    "environmentScore": 7.86296664555,
+    "parkGreenAreaDistance": 0.791066394031,
+    "highBuildingDensity": 0.594661210517,
+    "totalResidenceRatio": 0.416605166052,
+    "environmentCleaning": 0.259941352
+  },
+  {
+    "id": 31,
+    "district": "Şile",
+    "districtID": 1659,
+    "environmentScore": 2.80637304525,
+    "parkGreenAreaDistance": 0.1,
+    "highBuildingDensity": 0.706468646793,
+    "totalResidenceRatio": 0.001,
+    "environmentCleaning": 0.029578035
+  },
+  {
+    "id": 32,
+    "district": "Silivri",
+    "districtID": 1622,
+    "environmentScore": 7.0455922836,
+    "parkGreenAreaDistance": 0.579674840505,
+    "highBuildingDensity": 0.794789174692,
+    "totalResidenceRatio": 0.473431734317,
+    "environmentCleaning": 0.001
+  },
+  {
+    "id": 33,
+    "district": "Şişli",
+    "districtID": 1663,
+    "environmentScore": 8.35234329492,
+    "parkGreenAreaDistance": 0.864883194157,
+    "highBuildingDensity": 0.689040921486,
+    "totalResidenceRatio": 0.1963099631,
+    "environmentCleaning": 0.44039221
+  },
+  {
+    "id": 34,
+    "district": "Sultanbeyli",
+    "districtID": 2014,
+    "environmentScore": 9.46854743369,
+    "parkGreenAreaDistance": 0.942034298378,
+    "highBuildingDensity": 0.461341510345,
+    "totalResidenceRatio": 1,
+    "environmentCleaning": 0.080004985
+  },
+  {
+    "id": 35,
+    "district": "Sultangazi",
+    "districtID": 2055,
+    "environmentScore": 7.62152118334,
+    "parkGreenAreaDistance": 0.927971265171,
+    "highBuildingDensity": 0.507144245706,
+    "totalResidenceRatio": 0.248339483395,
+    "environmentCleaning": 0.315493573
+  },
+  {
+    "id": 36,
+    "district": "Tuzla",
+    "districtID": 2015,
+    "environmentScore": 8.96777075913,
+    "parkGreenAreaDistance": 0.789196557171,
+    "highBuildingDensity": 0.633121514392,
+    "totalResidenceRatio": 0.59557195572,
+    "environmentCleaning": 0.334148638
+  },
+  {
+    "id": 37,
+    "district": "Ümraniye",
+    "districtID": 1852,
+    "environmentScore": 7.20023876075,
+    "parkGreenAreaDistance": 0.966760557761,
+    "highBuildingDensity": 0.209176344228,
+    "totalResidenceRatio": 0.462361623616,
+    "environmentCleaning": 0.250157415
+  },
+  {
+    "id": 38,
+    "district": "Üsküdar",
+    "districtID": 1708,
+    "environmentScore": 9.23453404793,
+    "parkGreenAreaDistance": 0.984852661031,
+    "highBuildingDensity": 0.81074790877,
+    "totalResidenceRatio": 0.269372693727,
+    "environmentCleaning": 0.357031236
+  },
+  {
+    "id": 39,
+    "district": "Zeytinburnu",
+    "districtID": 1739,
+    "environmentScore": 9.10549122054,
+    "parkGreenAreaDistance": 0.855801640783,
+    "highBuildingDensity": 0.711034674036,
+    "totalResidenceRatio": 0.444649446494,
+    "environmentCleaning": 0.376673792
+  }
+]

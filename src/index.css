@@ -1,0 +1,40 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+
+
+.maplibregl-popup-content{
+
+    color: white !important;
+    border: 2px solid #627BC1;
+    background-color: #1e1e1e !important;
+    opacity: 90%;
+
+    display: flex;
+    justify-content: center ;
+    align-items: center;
+
+    min-width: 10em;
+    min-height: 5em;
+
+    border-radius: 8px !important;
+}
+
+.maplibregl-popup-close-button{
+    font-size: x-large;
+    padding: 1px 3px;
+
+}
+
+.maplibregl-popup-close-button:hover{
+
+    background-color: #627BC1 !important;
+    color: #1e1e1e;
+}
+
+.maplibregl-popup-tip{
+   display:none;
+}

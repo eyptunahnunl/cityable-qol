@@ -1,0 +1,392 @@
+[
+  {
+    "id": 1,
+    "district": "Adalar",
+    "districtID": 1103,
+    "fireStationDistance": 0.924697879911,
+    "policeStationDistance": 0.925685822243,
+    "earthquakeMortalityRisk": 0.945461783439,
+    "earthquakeDemolitionRisk": 0.811410750321,
+    "securityScore": 7.82854197302
+  },
+  {
+    "id": 2,
+    "district": "Arnavutköy",
+    "districtID": 2048,
+    "fireStationDistance": 0.205594042108,
+    "policeStationDistance": 0.452231242631,
+    "earthquakeMortalityRisk": 1,
+    "earthquakeDemolitionRisk": 0.971381397909,
+    "securityScore": 5.7059586358
+  },
+  {
+    "id": 3,
+    "district": "Ataşehir",
+    "districtID": 2049,
+    "fireStationDistance": 0.760465935077,
+    "policeStationDistance": 0.971934561523,
+    "earthquakeMortalityRisk": 0.945859872611,
+    "earthquakeDemolitionRisk": 0.914511098881,
+    "securityScore": 7.79710683078
+  },
+  {
+    "id": 4,
+    "district": "Avcılar",
+    "districtID": 2003,
+    "fireStationDistance": 0.596157193405,
+    "policeStationDistance": 0.938768981319,
+    "earthquakeMortalityRisk": 0.71974522293,
+    "earthquakeDemolitionRisk": 0.749403779123,
+    "securityScore": 6.51950598279
+  },
+  {
+    "id": 5,
+    "district": "Bağcılar",
+    "districtID": 2004,
+    "fireStationDistance": 0.713441784787,
+    "policeStationDistance": 0.969990328305,
+    "earthquakeMortalityRisk": 0.271098726115,
+    "earthquakeDemolitionRisk": 0.542652724271,
+    "securityScore": 5.4194393363
+  },
+  {
+    "id": 7,
+    "district": "Bakırköy",
+    "districtID": 1166,
+    "fireStationDistance": 0.80399818637,
+    "policeStationDistance": 0.975569274189,
+    "earthquakeMortalityRisk": 0.352308917197,
+    "earthquakeDemolitionRisk": 0.640432948083,
+    "securityScore": 6.01652294712
+  },
+  {
+    "id": 8,
+    "district": "Başakşehir",
+    "districtID": 2050,
+    "fireStationDistance": 0.659787905508,
+    "policeStationDistance": 0.915710016518,
+    "earthquakeMortalityRisk": 0.953821656051,
+    "earthquakeDemolitionRisk": 0.89689965144,
+    "securityScore": 7.43565172333
+  },
+  {
+    "id": 9,
+    "district": "Bayrampaşa",
+    "districtID": 1886,
+    "fireStationDistance": 0.87768839523,
+    "policeStationDistance": 0.978578492768,
+    "earthquakeMortalityRisk": 0.657643312102,
+    "earthquakeDemolitionRisk": 0.694001100715,
+    "securityScore": 6.9618753484
+  },
+  {
+    "id": 10,
+    "district": "Beşiktaş",
+    "districtID": 1183,
+    "fireStationDistance": 0.862556873824,
+    "policeStationDistance": 0.964970483608,
+    "earthquakeMortalityRisk": 0.984076433121,
+    "earthquakeDemolitionRisk": 0.977435332966,
+    "securityScore": 8.22305094952
+  },
+  {
+    "id": 11,
+    "district": "Beykoz",
+    "districtID": 1185,
+    "fireStationDistance": 0.415252858736,
+    "policeStationDistance": 0.764994241903,
+    "earthquakeMortalityRisk": 0.983678343949,
+    "earthquakeDemolitionRisk": 0.921482296826,
+    "securityScore": 6.69601559409
+  },
+  {
+    "id": 12,
+    "district": "Beylikdüzü",
+    "districtID": 2051,
+    "fireStationDistance": 0.656950225242,
+    "policeStationDistance": 0.944517854019,
+    "earthquakeMortalityRisk": 0.680334394904,
+    "earthquakeDemolitionRisk": 0.790313703908,
+    "securityScore": 6.66716996885
+  },
+  {
+    "id": 13,
+    "district": "Beyoğlu",
+    "districtID": 1186,
+    "fireStationDistance": 0.860982669904,
+    "policeStationDistance": 0.987441023238,
+    "earthquakeMortalityRisk": 0.853901273885,
+    "earthquakeDemolitionRisk": 0.793982755458,
+    "securityScore": 7.58775921809
+  },
+  {
+    "id": 14,
+    "district": "Büyükçekmece",
+    "districtID": 1782,
+    "fireStationDistance": 0.402116942779,
+    "policeStationDistance": 0.889820534874,
+    "earthquakeMortalityRisk": 0.824044585987,
+    "earthquakeDemolitionRisk": 0.643001284168,
+    "securityScore": 5.98760263442
+  },
+  {
+    "id": 16,
+    "district": "Çekmeköy",
+    "districtID": 2052,
+    "fireStationDistance": 0.242460805784,
+    "policeStationDistance": 0.771371998631,
+    "earthquakeMortalityRisk": 0.999601910828,
+    "earthquakeDemolitionRisk": 0.999816547422,
+    "securityScore": 6.53942011388
+  },
+  {
+    "id": 17,
+    "district": "Esenler",
+    "districtID": 2016,
+    "fireStationDistance": 0.845603138722,
+    "policeStationDistance": 0.943727891093,
+    "earthquakeMortalityRisk": 0.605891719745,
+    "earthquakeDemolitionRisk": 0.802605026601,
+    "securityScore": 6.93999187497
+  },
+  {
+    "id": 18,
+    "district": "Esenyurt",
+    "districtID": 2053,
+    "fireStationDistance": 0.803554359982,
+    "policeStationDistance": 0.935432745911,
+    "earthquakeMortalityRisk": 0.384554140127,
+    "earthquakeDemolitionRisk": 0.595853971748,
+    "securityScore": 5.90168765711
+  },
+  {
+    "id": 19,
+    "district": "Eyüp",
+    "districtID": 1325,
+    "fireStationDistance": 0.179651594403,
+    "policeStationDistance": 0.648569350162,
+    "earthquakeMortalityRisk": 0.889331210191,
+    "earthquakeDemolitionRisk": 0.814162538984,
+    "securityScore": 5.49437950826
+  },
+  {
+    "id": 21,
+    "district": "Gaziosmanpaşa",
+    "districtID": 1336,
+    "fireStationDistance": 0.92668364829,
+    "policeStationDistance": 0.962730158145,
+    "earthquakeMortalityRisk": 0.91122611465,
+    "earthquakeDemolitionRisk": 0.925885158686,
+    "securityScore": 8.08738168086
+  },
+  {
+    "id": 22,
+    "district": "Güngören",
+    "districtID": 2010,
+    "fireStationDistance": 0.90377771923,
+    "policeStationDistance": 0.9877138917,
+    "earthquakeMortalityRisk": 0.534633757962,
+    "earthquakeDemolitionRisk": 0.848651623555,
+    "securityScore": 7.10698865315
+  },
+  {
+    "id": 23,
+    "district": "Kadıköy",
+    "districtID": 1421,
+    "fireStationDistance": 0.850939922727,
+    "policeStationDistance": 0.982362447257,
+    "earthquakeMortalityRisk": 0.860668789809,
+    "earthquakeDemolitionRisk": 0.874701889562,
+    "securityScore": 7.74480794481
+  },
+  {
+    "id": 24,
+    "district": "Kağıthane",
+    "districtID": 1810,
+    "fireStationDistance": 0.944130650334,
+    "policeStationDistance": 0.941539248574,
+    "earthquakeMortalityRisk": 0.949044585987,
+    "earthquakeDemolitionRisk": 0.95578792882,
+    "securityScore": 8.22622661212
+  },
+  {
+    "id": 25,
+    "district": "Kartal",
+    "districtID": 1449,
+    "fireStationDistance": 0.716877811327,
+    "policeStationDistance": 0.932004214062,
+    "earthquakeMortalityRisk": 0.895302547771,
+    "earthquakeDemolitionRisk": 0.878187488534,
+    "securityScore": 7.42730252027
+  },
+  {
+    "id": 26,
+    "district": "Küçükçekmece",
+    "districtID": 1823,
+    "fireStationDistance": 0.696210387969,
+    "policeStationDistance": 0.958786392618,
+    "earthquakeMortalityRisk": 0.0286624203822,
+    "earthquakeDemolitionRisk": 0.316088791048,
+    "securityScore": 4.33989438707
+  },
+  {
+    "id": 27,
+    "district": "Maltepe",
+    "districtID": 2012,
+    "fireStationDistance": 0.727265538315,
+    "policeStationDistance": 0.924721688053,
+    "earthquakeMortalityRisk": 0.855095541401,
+    "earthquakeDemolitionRisk": 0.853421390571,
+    "securityScore": 7.29303551884
+  },
+  {
+    "id": 29,
+    "district": "Sancaktepe",
+    "districtID": 2054,
+    "fireStationDistance": 0.496535584652,
+    "policeStationDistance": 0.880919750371,
+    "earthquakeMortalityRisk": 0.971337579618,
+    "earthquakeDemolitionRisk": 0.931755641167,
+    "securityScore": 7.11951421914
+  },
+  {
+    "id": 30,
+    "district": "Sarıyer",
+    "districtID": 1604,
+    "fireStationDistance": 0.479796058604,
+    "policeStationDistance": 0.862879066803,
+    "earthquakeMortalityRisk": 0.978503184713,
+    "earthquakeDemolitionRisk": 0.937809576225,
+    "securityScore": 7.07272280905
+  },
+  {
+    "id": 31,
+    "district": "Şile",
+    "districtID": 1659,
+    "fireStationDistance": 0.187124580567,
+    "policeStationDistance": 0.4216625041,
+    "earthquakeMortalityRisk": 1,
+    "earthquakeDemolitionRisk": 1,
+    "securityScore": 5.6616436026
+  },
+  {
+    "id": 32,
+    "district": "Silivri",
+    "districtID": 1622,
+    "fireStationDistance": 0.125658818823,
+    "policeStationDistance": 0.549021146794,
+    "earthquakeMortalityRisk": 0.966162420382,
+    "earthquakeDemolitionRisk": 0.6288754357,
+    "securityScore": 4.92578848632
+  },
+  {
+    "id": 33,
+    "district": "Şişli",
+    "districtID": 1663,
+    "fireStationDistance": 0.739119272094,
+    "policeStationDistance": 0.900175792768,
+    "earthquakeMortalityRisk": 0.967356687898,
+    "earthquakeDemolitionRisk": 0.973032471106,
+    "securityScore": 7.76870462311
+  },
+  {
+    "id": 34,
+    "district": "Sultanbeyli",
+    "districtID": 2014,
+    "fireStationDistance": 0.751818279613,
+    "policeStationDistance": 0.967823762818,
+    "earthquakeMortalityRisk": 0.955812101911,
+    "earthquakeDemolitionRisk": 0.884608328747,
+    "securityScore": 7.72612109439
+  },
+  {
+    "id": 35,
+    "district": "Sultangazi",
+    "districtID": 2055,
+    "fireStationDistance": 0.729188187288,
+    "policeStationDistance": 0.944995145726,
+    "earthquakeMortalityRisk": 0.966560509554,
+    "earthquakeDemolitionRisk": 0.967345441203,
+    "securityScore": 7.83034987068
+  },
+  {
+    "id": 36,
+    "district": "Tuzla",
+    "districtID": 2015,
+    "fireStationDistance": 0.269226013676,
+    "policeStationDistance": 0.813559007862,
+    "earthquakeMortalityRisk": 0.826035031847,
+    "earthquakeDemolitionRisk": 0.690332049165,
+    "securityScore": 5.64073356545
+  },
+  {
+    "id": 37,
+    "district": "Ümraniye",
+    "districtID": 1852,
+    "fireStationDistance": 0.754107304633,
+    "policeStationDistance": 0.916832230419,
+    "earthquakeMortalityRisk": 0.976512738854,
+    "earthquakeDemolitionRisk": 0.906255732893,
+    "securityScore": 7.71233050042
+  },
+  {
+    "id": 38,
+    "district": "Üsküdar",
+    "districtID": 1708,
+    "fireStationDistance": 0.850379663613,
+    "policeStationDistance": 0.962856131391,
+    "earthquakeMortalityRisk": 0.945461783439,
+    "earthquakeDemolitionRisk": 0.906255732893,
+    "securityScore": 7.95375735755
+  },
+  {
+    "id": 39,
+    "district": "Zeytinburnu",
+    "districtID": 1739,
+    "fireStationDistance": 0.937939769005,
+    "policeStationDistance": 0.991375575068,
+    "earthquakeMortalityRisk": 0.585191082803,
+    "earthquakeDemolitionRisk": 0.741882223445,
+    "securityScore": 7.06708189335
+  },
+  {
+    "id": 6,
+    "district": "Bahçelievler",
+    "districtID": 2005,
+    "fireStationDistance": 0.912530112492,
+    "policeStationDistance": 0.977276724591,
+    "earthquakeMortalityRisk": 0.001,
+    "earthquakeDemolitionRisk": 0.604109337736,
+    "securityScore": 5.41234838196
+  },
+  {
+    "id": 15,
+    "district": "Çatalca",
+    "districtID": 1237,
+    "fireStationDistance": 0.0262431634211,
+    "policeStationDistance": 0.01,
+    "earthquakeMortalityRisk": 0.997611464968,
+    "earthquakeDemolitionRisk": 0.956705191708,
+    "securityScore": 4.29825182014
+  },
+  {
+    "id": 20,
+    "district": "Fatih",
+    "districtID": 1327,
+    "fireStationDistance": 1,
+    "policeStationDistance": 1,
+    "earthquakeMortalityRisk": 0.0171178343949,
+    "earthquakeDemolitionRisk": 0.1,
+    "securityScore": 4.37759077769
+  },
+  {
+    "id": 28,
+    "district": "Pendik",
+    "districtID": 1835,
+    "fireStationDistance": 0.001,
+    "policeStationDistance": 0.743449536412,
+    "earthquakeMortalityRisk": 0.882165605096,
+    "earthquakeDemolitionRisk": 0.782241790497,
+    "securityScore": 5.22558083608
+  }
+]
