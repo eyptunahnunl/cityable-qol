@@ -19,7 +19,7 @@ function RadarChart() {
       position: "left",
     },
   };
-  return <Rose {...config} width={100} height={380} />;
+  return <Rose {...config} width={250} height={380} />;
 }
 
 export default RadarChart;

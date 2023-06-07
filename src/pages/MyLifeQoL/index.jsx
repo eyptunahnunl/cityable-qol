@@ -8,10 +8,16 @@ function MyLifeQoL() {
   return (
     <div className="w-full h-vh bg-black">
       <BottomNav />
-      <div className="w-1/2">
-        <RadarChart />
+      <div className="w-full p-5 flex">
+        <div className="w-10/12">
+          <RadarChart />
+        </div>
+        <div className="text-white ml-10">
+          <RangeSlider />
+        </div>
       </div>
-      <div className="w-full p-5">
+
+      <div className="w-full px-10 pb-10">
         <StackendColumn />
       </div>
     </div>

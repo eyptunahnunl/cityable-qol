@@ -14,7 +14,7 @@ function BottomNav() {
     }
   };
   return (
-    <div className="absolute flex justify-center items-center bottom-0 h-8 w-full">
+    <div className="absolute flex justify-center items-center bottom-0 h-6 w-full">
       <div className="flex justify-center items-center bg-[#ffffff4d] rounded-lg p-1 pl-5 pr-5 gap-5 border backdrop-filter: blur(2.5px) shadow-lg text-sm text-white ">
         <button
           className="hover:text-green-50"
