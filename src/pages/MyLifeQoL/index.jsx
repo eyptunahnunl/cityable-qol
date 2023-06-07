@@ -1,15 +1,19 @@
 import RadarChart from "components/Charts/RadarChart";
 import BottomNav from "components/Navbar/bottom-nav";
 import RangeSlider from "components/RangeSlider";
+import StackendColumn from "components/StackendColumn";
+import React from "react";
+
 function MyLifeQoL() {
   return (
-    <div className="flex flex-row w-vh h-vh bg-black">
-      <h1 className="text-white">DEVAM EDECEK</h1>
-      <RadarChart />
-      <div className="text-white w-full h-full top-1/2 relative ">
-        <RangeSlider />
-      </div>
+    <div className="w-full h-vh bg-black">
       <BottomNav />
+      <div className="w-1/2">
+        <RadarChart />
+      </div>
+      <div className="w-full p-5">
+        <StackendColumn />
+      </div>
     </div>
   );
 }

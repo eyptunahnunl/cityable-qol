@@ -24,7 +24,10 @@ function BottomNav() {
             ? "Istanbul QoL"
             : "MyLife Quality"}
         </button>
-        <NavLink className="hover:text-green-50" to={"/"}>
+        <NavLink
+          className="hover:text-green-50"
+          to={"/info"}
+        >
           More Information..
         </NavLink>
       </div>

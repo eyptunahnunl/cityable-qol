@@ -1,3 +1,4 @@
+import InfoPage from "pages/InfoPage";
 import IstanbulQoL from "pages/IstanbulQoL";
 import MyLifeQoL from "pages/MyLifeQoL";
 import { createBrowserRouter } from "react-router-dom";
@@ -8,8 +9,8 @@ const router = createBrowserRouter([
     element: <IstanbulQoL />,
   },
   {
-    path: "/istanbulqol",
-    element: <IstanbulQoL />,
+    path: "/info",
+    element: <InfoPage />,
   },
   {
     path: "/mylifequality",

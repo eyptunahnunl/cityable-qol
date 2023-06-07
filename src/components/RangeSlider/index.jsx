@@ -1,9 +1,9 @@
 function RangeSlider() {
   return (
-    <div>
+    <div className="items-center justify-center ">
       <label
         htmlFor="steps-range"
-        className="block mb-2 text-sm font-medium text-gray-900 dark:text-white"
+        className="block mb-2 text-sm  text-white font-medium"
       >
         Energy
       </label>

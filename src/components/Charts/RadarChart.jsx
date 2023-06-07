@@ -13,13 +13,13 @@ function RadarChart() {
     seriesField: "type",
     radius: 0.7,
     label: {
-      offset: -15,
+      offset: -10,
     },
     legend: {
       position: "left",
     },
   };
-  return <Rose {...config} width={750} height={1300} />;
+  return <Rose {...config} width={100} height={380} />;
 }
 
 export default RadarChart;
