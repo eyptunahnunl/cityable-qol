@@ -1,39 +1,35 @@
 import { Column } from "@ant-design/plots";
-import React, { useEffect, useState } from "react";
-import thematicData from "services/thematicIndex.json";
+import ChartContext from "context/chartContext";
+import React, {
+  useContext,
+  useEffect,
+  useState,
+} from "react";
 import stackendData from "services/stackendData.json";
+// import { multiplyDataByType } from "utils/helper";
 function StackendColumn() {
   const [data, setData] = useState([]);
 
+  const { multiply } = useContext(ChartContext);
+
   useEffect(() => {
-    const datas = thematicData.map(data => {
-      return {
-        id: data.districtid,
-        type: "environment",
-        name: data.district,
-        value: data.environmentScore,
-      };
-    });
-    console.log(datas);
     setData(stackendData);
   }, []);
 
-  useEffect(() => {
-    function multiplyDataByType(input, type) {
-      return stackendData.map(function (entry) {
-        if (entry.type === type) {
-          return {
-            ...entry,
-            value: entry.value * input,
-          };
-        }
-        return entry;
-      });
-    }
-
-    const newData = multiplyDataByType(20, "population");
-    console.log("type", newData);
-  });
+  // console.log("value", value);
+  // useEffect(() => {
+  //   const newdata = data.map(entry => {
+  //     if (entry.type === multiply.title) {
+  //       return {
+  //         ...entry,
+  //         value: entry.value * multiply.value,
+  //       };
+  //     }
+  //     return entry;
+  //   });
+  //   console.log("newdata", newdata);
+  //   setData(newdata);
+  // }, [multiply]);
 
   const config = {
     data,
@@ -45,20 +41,6 @@ function StackendColumn() {
       shadowOffsetY: 10,
     },
     seriesField: "type",
-    label: {
-      position: "middle",
-      layout: [
-        {
-          type: "interval-adjust-position",
-        },
-        {
-          type: "interval-hide-overlap",
-        },
-        {
-          type: "adjust-color",
-        },
-      ],
-    },
     xAxis: {
       grid: {
         line: {
@@ -77,7 +59,7 @@ function StackendColumn() {
     },
     onReady: graph => {
       graph.on("plot:click", e => {
-        console.log(e.data.data.id);
+        console.log(e?.data?.data.id);
       });
     },
   };
