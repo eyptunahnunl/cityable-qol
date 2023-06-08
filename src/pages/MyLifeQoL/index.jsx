@@ -9,7 +9,7 @@ function MyLifeQoL() {
     <div className="w-full h-vh bg-black">
       <BottomNav />
       <div className="w-full p-5 flex">
-        <div className="w-10/12">
+        <div className="w-1/2">
           <RadarChart />
         </div>
         <div className="text-white ml-10">

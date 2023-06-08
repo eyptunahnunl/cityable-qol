@@ -1,0 +1,471 @@
+[
+  {
+    "id": 1103,
+    "type": "environment",
+    "name": "Adalar",
+    "value": 8.386955598483322
+  },
+  {
+    "id": 2048,
+    "type": "environment",
+    "name": "Arnavutköy",
+    "value": 8.816774072353295
+  },
+  {
+    "id": 2049,
+    "type": "environment",
+    "name": "Ataşehir",
+    "value": 8.485611185157788
+  },
+  {
+    "id": 2003,
+    "type": "environment",
+    "name": "Avcılar",
+    "value": 8.754375352431934
+  },
+  {
+    "id": 2004,
+    "type": "environment",
+    "name": "Bağcılar",
+    "value": 7.926420417881151
+  },
+  {
+    "id": 2005,
+    "type": "environment",
+    "name": "Bahçelievler",
+    "value": 8.345604051968229
+  },
+  {
+    "id": 1166,
+    "type": "environment",
+    "name": "Bakırköy",
+    "value": 9.393950868100228
+  },
+  {
+    "id": 2050,
+    "type": "environment",
+    "name": "Başakşehir",
+    "value": 7.056095911981493
+  },
+  {
+    "id": 1886,
+    "type": "environment",
+    "name": "Bayrampaşa",
+    "value": 6.354187836866644
+  },
+  {
+    "id": 1183,
+    "type": "environment",
+    "name": "Beşiktaş",
+    "value": 6.655941826133435
+  },
+  {
+    "id": 1185,
+    "type": "environment",
+    "name": "Beykoz",
+    "value": 6.750124076260497
+  },
+  {
+    "id": 2051,
+    "type": "environment",
+    "name": "Beylikdüzü",
+    "value": 6.946418851652771
+  },
+  {
+    "id": 1186,
+    "type": "environment",
+    "name": "Beyoğlu",
+    "value": 8.881726635630894
+  },
+  {
+    "id": 1782,
+    "type": "environment",
+    "name": "Büyükçekmece",
+    "value": 7.548083796826495
+  },
+  {
+    "id": 1237,
+    "type": "environment",
+    "name": "Çatalca",
+    "value": 7.748988706798842
+  },
+  {
+    "id": 2052,
+    "type": "environment",
+    "name": "Çekmeköy",
+    "value": 7.0217399946056815
+  },
+  {
+    "id": 2016,
+    "type": "environment",
+    "name": "Esenler",
+    "value": 5.074258507015
+  },
+  {
+    "id": 2053,
+    "type": "environment",
+    "name": "Esenyurt",
+    "value": 9.126788675633764
+  },
+  {
+    "id": 1325,
+    "type": "environment",
+    "name": "Eyüp",
+    "value": 11.848389858429432
+  },
+  {
+    "id": 1327,
+    "type": "environment",
+    "name": "Fatih",
+    "value": 8.387446052102609
+  },
+  {
+    "id": 1336,
+    "type": "environment",
+    "name": "Gaziosmanpaşa",
+    "value": 6.7836046751380925
+  },
+  {
+    "id": 2010,
+    "type": "environment",
+    "name": "Güngören",
+    "value": 7.188556458665246
+  },
+  {
+    "id": 1421,
+    "type": "environment",
+    "name": "Kadıköy",
+    "value": 9.429839778929537
+  },
+  {
+    "id": 1810,
+    "type": "environment",
+    "name": "Kağıthane",
+    "value": 8.435977649374617
+  },
+  {
+    "id": 1449,
+    "type": "environment",
+    "name": "Kartal",
+    "value": 8.740746106806144
+  },
+  {
+    "id": 1823,
+    "type": "environment",
+    "name": "Küçükçekmece",
+    "value": 6.283937547409127
+  },
+  {
+    "id": 2012,
+    "type": "environment",
+    "name": "Maltepe",
+    "value": 8.444493784718357
+  },
+  {
+    "id": 1835,
+    "type": "environment",
+    "name": "Pendik",
+    "value": 9.964444615885272
+  },
+  {
+    "id": 2054,
+    "type": "environment",
+    "name": "Sancaktepe",
+    "value": 7.9013571842815375
+  },
+  {
+    "id": 1604,
+    "type": "environment",
+    "name": "Sarıyer",
+    "value": 7.862966645554051
+  },
+  {
+    "id": 1659,
+    "type": "environment",
+    "name": "Şile",
+    "value": 2.8063730452518643
+  },
+  {
+    "id": 1622,
+    "type": "environment",
+    "name": "Silivri",
+    "value": 7.0455922835957505
+  },
+  {
+    "id": 1663,
+    "type": "environment",
+    "name": "Şişli",
+    "value": 8.352343294921601
+  },
+  {
+    "id": 2014,
+    "type": "environment",
+    "name": "Sultanbeyli",
+    "value": 9.468547433691631
+  },
+  {
+    "id": 2055,
+    "type": "environment",
+    "name": "Sultangazi",
+    "value": 7.621521183335747
+  },
+  {
+    "id": 2015,
+    "type": "environment",
+    "name": "Tuzla",
+    "value": 8.96777075912574
+  },
+  {
+    "id": 1852,
+    "type": "environment",
+    "name": "Ümraniye",
+    "value": 7.200238760751643
+  },
+  {
+    "id": 1708,
+    "type": "environment",
+    "name": "Üsküdar",
+    "value": 9.234534047929372
+  },
+  {
+    "id": 1739,
+    "type": "environment",
+    "name": "Zeytinburnu",
+    "value": 9.105491220544694
+  },
+
+  {
+    "id": 1103,
+    "type": "population",
+    "name": "Adalar",
+    "value": 1.2323117671500128
+  },
+  {
+    "id": 2048,
+    "type": "population",
+    "name": "Arnavutköy",
+    "value": 4.637821861762995
+  },
+  {
+    "id": 2049,
+    "type": "population",
+    "name": "Ataşehir",
+    "value": 3.0214866681227264
+  },
+  {
+    "id": 2003,
+    "type": "population",
+    "name": "Avcılar",
+    "value": 3.4151291065298426
+  },
+  {
+    "id": 2004,
+    "type": "population",
+    "name": "Bağcılar",
+    "value": 3.667539299389754
+  },
+  {
+    "id": 2005,
+    "type": "population",
+    "name": "Bahçelievler",
+    "value": 3.1466782098045454
+  },
+  {
+    "id": 1166,
+    "type": "population",
+    "name": "Bakırköy",
+    "value": 1.9856256092987448
+  },
+  {
+    "id": 2050,
+    "type": "population",
+    "name": "Başakşehir",
+    "value": 4.101489262537085
+  },
+  {
+    "id": 1886,
+    "type": "population",
+    "name": "Bayrampaşa",
+    "value": 3.069720949365026
+  },
+  {
+    "id": 1183,
+    "type": "population",
+    "name": "Beşiktaş",
+    "value": 2.132633512735767
+  },
+  {
+    "id": 1185,
+    "type": "population",
+    "name": "Beykoz",
+    "value": 2.7229092117325804
+  },
+  {
+    "id": 2051,
+    "type": "population",
+    "name": "Beylikdüzü",
+    "value": 3.374440007658038
+  },
+  {
+    "id": 1186,
+    "type": "population",
+    "name": "Beyoğlu",
+    "value": 3.179316945818573
+  },
+  {
+    "id": 1782,
+    "type": "population",
+    "name": "Büyükçekmece",
+    "value": 3.0676890934008423
+  },
+  {
+    "id": 1237,
+    "type": "population",
+    "name": "Çatalca",
+    "value": 2.375985944598931
+  },
+  {
+    "id": 2052,
+    "type": "population",
+    "name": "Çekmeköy",
+    "value": 4.10558301888083
+  },
+  {
+    "id": 2016,
+    "type": "population",
+    "name": "Esenler",
+    "value": 3.8932904188096114
+  },
+  {
+    "id": 2053,
+    "type": "population",
+    "name": "Esenyurt",
+    "value": 4.160647119477131
+  },
+  {
+    "id": 1325,
+    "type": "population",
+    "name": "Eyüp",
+    "value": 3.315834180027985
+  },
+  {
+    "id": 1327,
+    "type": "population",
+    "name": "Fatih",
+    "value": 2.6690713825965338
+  },
+  {
+    "id": 1336,
+    "type": "population",
+    "name": "Gaziosmanpaşa",
+    "value": 3.3133467775812573
+  },
+  {
+    "id": 2010,
+    "type": "population",
+    "name": "Güngören",
+    "value": 3.168722430139436
+  },
+  {
+    "id": 1421,
+    "type": "population",
+    "name": "Kadıköy",
+    "value": 1.337479003656095
+  },
+  {
+    "id": 1810,
+    "type": "population",
+    "name": "Kağıthane",
+    "value": 3.439665462740524
+  },
+  {
+    "id": 1449,
+    "type": "population",
+    "name": "Kartal",
+    "value": 2.819810028061804
+  },
+  {
+    "id": 1823,
+    "type": "population",
+    "name": "Küçükçekmece",
+    "value": 3.227039444565063
+  },
+  {
+    "id": 2012,
+    "type": "population",
+    "name": "Maltepe",
+    "value": 2.7038072149072336
+  },
+  {
+    "id": 1835,
+    "type": "population",
+    "name": "Pendik",
+    "value": 3.4259625110837777
+  },
+  {
+    "id": 2054,
+    "type": "population",
+    "name": "Sancaktepe",
+    "value": 4.43584701066127
+  },
+  {
+    "id": 1604,
+    "type": "population",
+    "name": "Sarıyer",
+    "value": 2.6196981404322615
+  },
+  {
+    "id": 1659,
+    "type": "population",
+    "name": "Şile",
+    "value": 1.4116131617149914
+  },
+  {
+    "id": 1622,
+    "type": "population",
+    "name": "Silivri",
+    "value": 3.2767308285348067
+  },
+  {
+    "id": 1663,
+    "type": "population",
+    "name": "Şişli",
+    "value": 2.5469897136480664
+  },
+  {
+    "id": 2014,
+    "type": "population",
+    "name": "Sultanbeyli",
+    "value": 4.896300432263366
+  },
+  {
+    "id": 2055,
+    "type": "population",
+    "name": "Sultangazi",
+    "value": 4.393238647016663
+  },
+  {
+    "id": 2015,
+    "type": "population",
+    "name": "Tuzla",
+    "value": 4.127274472301128
+  },
+  {
+    "id": 1852,
+    "type": "population",
+    "name": "Ümraniye",
+    "value": 3.2889329679239596
+  },
+  {
+    "id": 1708,
+    "type": "population",
+    "name": "Üsküdar",
+    "value": 2.4243818010677645
+  },
+  {
+    "id": 1739,
+    "type": "population",
+    "name": "Zeytinburnu",
+    "value": 3.5970052692457717
+  }
+]

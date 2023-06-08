@@ -1,27 +1,44 @@
 import { Column } from "@ant-design/plots";
 import React, { useEffect, useState } from "react";
-
+import thematicData from "services/thematicIndex.json";
+import stackendData from "services/stackendData.json";
 function StackendColumn() {
   const [data, setData] = useState([]);
 
   useEffect(() => {
-    asyncFetch();
+    const datas = thematicData.map(data => {
+      return {
+        id: data.districtid,
+        type: "environment",
+        name: data.district,
+        value: data.environmentScore,
+      };
+    });
+    console.log(datas);
+    setData(stackendData);
   }, []);
 
-  const asyncFetch = () => {
-    fetch(
-      "https://gw.alipayobjects.com/os/antfincdn/8elHX%26irfq/stack-column-data.json"
-    )
-      .then(response => response.json())
-      .then(json => setData(json))
-      .catch(error => {
-        console.log("fetch data failed", error);
+  useEffect(() => {
+    function multiplyDataByType(input, type) {
+      return stackendData.map(function (entry) {
+        if (entry.type === type) {
+          return {
+            ...entry,
+            value: entry.value * input,
+          };
+        }
+        return entry;
       });
-  };
+    }
+
+    const newData = multiplyDataByType(20, "population");
+    console.log("type", newData);
+  });
+
   const config = {
     data,
     isStack: true,
-    xField: "year",
+    xField: "name",
     yField: "value",
     style: {
       shadowOffsetX: 0,
@@ -57,6 +74,11 @@ function StackendColumn() {
           },
         },
       },
+    },
+    onReady: graph => {
+      graph.on("plot:click", e => {
+        console.log(e.data.data.id);
+      });
     },
   };
   return <Column {...config} height={350} />;
