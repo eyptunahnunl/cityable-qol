@@ -15,22 +15,6 @@ function StackendColumn() {
   useEffect(() => {
     setData(stackendData);
   }, []);
-
-  // console.log("value", value);
-  // useEffect(() => {
-  //   const newdata = data.map(entry => {
-  //     if (entry.type === multiply.title) {
-  //       return {
-  //         ...entry,
-  //         value: entry.value * multiply.value,
-  //       };
-  //     }
-  //     return entry;
-  //   });
-  //   console.log("newdata", newdata);
-  //   setData(newdata);
-  // }, [multiply]);
-
   const config = {
     data,
     isStack: true,
