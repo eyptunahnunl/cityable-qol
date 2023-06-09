@@ -1,5 +1,3 @@
-import Navbar from "components/Navbar";
-import React from "react";
 import { Icon } from "utils/Icons";
 import infograph from "./Image/infograph.png";
 import main from "./Image/MainPage.png";

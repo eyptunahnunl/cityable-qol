@@ -1,7 +1,7 @@
 import { Column } from "@ant-design/plots";
-import ChartContext from "context/chartContext";
+// import ChartContext from "context/chartContext";
 import React, {
-  useContext,
+  // useContext,
   useEffect,
   useState,
 } from "react";
@@ -10,11 +10,14 @@ import stackendData from "services/stackendData.json";
 function StackendColumn() {
   const [data, setData] = useState([]);
 
-  const { multiply } = useContext(ChartContext);
+  // const { multiply } = useContext(ChartContext);
 
   useEffect(() => {
     setData(stackendData);
+    console.log("test");
   }, []);
+
+  useEffect(() => {}, []);
   const config = {
     data,
     isStack: true,

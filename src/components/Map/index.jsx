@@ -1,6 +1,5 @@
 import MainContext from "context/mapContext";
 import maplibregl from "maplibre-gl";
-
 import {
   useContext,
   useRef,

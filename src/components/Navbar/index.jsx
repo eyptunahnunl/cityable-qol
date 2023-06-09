@@ -33,20 +33,37 @@ function Navbar() {
         <div>
           <Icon name="logo" />
         </div>
-        <div className={iconDiv} onClick={handleNav}>
+        <div
+          className={iconDiv}
+          onClick={handleNav}
+          title="Sidebar"
+        >
           <Icon name="group" />
         </div>
-        <div className={iconDiv} onClick={handleLegend}>
+        <div
+          className={iconDiv}
+          onClick={handleLegend}
+          title="legend"
+        >
           <Icon name="layer" />
         </div>
-        <div className={iconDiv} onClick={handleChoroplet}>
+        <div
+          className={iconDiv}
+          onClick={handleChoroplet}
+          title="Heat map"
+        >
           <Icon name="heat" />
         </div>
         <div className={iconDiv}>
           <Icon name="poi" />
         </div>
-        <div className={iconDiv}>
-          <Icon name="search" />
+        <div
+          className={iconDiv}
+          title="Go to AirQuality Dashboard "
+        >
+          <a href="https://cityableairquality.netlify.app/">
+            <Icon name="air" size={32} />
+          </a>
         </div>
       </div>
     </div>

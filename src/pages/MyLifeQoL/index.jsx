@@ -34,6 +34,7 @@ function MyLifeQoL() {
             title={"health"}
             onSliderChange={handleSliderChange}
           />
+          {/* <button>Click Me</button> */}
         </div>
       </div>
 
