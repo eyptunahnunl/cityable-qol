@@ -8,6 +8,7 @@ function PieChart() {
   const { activeDistrict } = useContext(MainContext);
   const { setChart } = useContext(ChartContext);
 
+  console.log("activeDistrict", activeDistrict);
   const data = PieChartData(activeDistrict)[0];
   const config = {
     appendPadding: 10,

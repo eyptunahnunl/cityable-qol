@@ -21,19 +21,57 @@ function MyLifeQoL() {
         <div className="w-1/2">
           <RadarChart />
         </div>
-        <div className="text-white ml-10">
-          <RangeSlider
-            title={"energy"}
-            onSliderChange={handleSliderChange}
-          />
-          <RangeSlider
-            title={"urban"}
-            onSliderChange={handleSliderChange}
-          />
-          <RangeSlider
-            title={"health"}
-            onSliderChange={handleSliderChange}
-          />
+        <div className="text-white ml-10 flex">
+          <div>
+            <RangeSlider
+              title={"Energy"}
+              onSliderChange={handleSliderChange}
+            />
+            <RangeSlider
+              title={"Urban"}
+              onSliderChange={handleSliderChange}
+            />
+            <RangeSlider
+              title={"Health"}
+              onSliderChange={handleSliderChange}
+            />
+            <RangeSlider
+              title={"Transportation"}
+              onSliderChange={handleSliderChange}
+            />
+            <RangeSlider
+              title={"Security"}
+              onSliderChange={handleSliderChange}
+            />
+            <RangeSlider
+              title={"Economy"}
+              onSliderChange={handleSliderChange}
+            />
+          </div>
+          <div className="ml-4">
+            <RangeSlider
+              title={"Education"}
+              onSliderChange={handleSliderChange}
+            />
+            <RangeSlider
+              title={"Population"}
+              onSliderChange={handleSliderChange}
+            />
+            <RangeSlider
+              title={"Housing"}
+              onSliderChange={handleSliderChange}
+            />
+            <RangeSlider
+              title={"Governance"}
+              onSliderChange={handleSliderChange}
+            />
+          </div>
+          <div className="ml-4">
+            <RangeSlider
+              title={"Environment"}
+              onSliderChange={handleSliderChange}
+            />
+          </div>
           {/* <button>Click Me</button> */}
         </div>
       </div>
